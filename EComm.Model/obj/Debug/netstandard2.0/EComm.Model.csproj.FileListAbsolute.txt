@@ -1,0 +1,18 @@
+C:\Users\bellj\Hub\Treeloop\Courseware\ASP.NET Core 2.1\Labs\Lab05\Complete\EComm\EComm.Model\bin\Debug\netstandard2.0\EComm.Model.deps.json
+C:\Users\bellj\Hub\Treeloop\Courseware\ASP.NET Core 2.1\Labs\Lab05\Complete\EComm\EComm.Model\bin\Debug\netstandard2.0\EComm.Model.dll
+C:\Users\bellj\Hub\Treeloop\Courseware\ASP.NET Core 2.1\Labs\Lab05\Complete\EComm\EComm.Model\bin\Debug\netstandard2.0\EComm.Model.pdb
+C:\Users\bellj\Hub\Treeloop\Courseware\ASP.NET Core 2.1\Labs\Lab05\Complete\EComm\EComm.Model\obj\Debug\netstandard2.0\EComm.Model.csprojAssemblyReference.cache
+C:\Users\bellj\Hub\Treeloop\Courseware\ASP.NET Core 2.1\Labs\Lab05\Complete\EComm\EComm.Model\obj\Debug\netstandard2.0\EComm.Model.csproj.CoreCompileInputs.cache
+C:\Users\bellj\Hub\Treeloop\Courseware\ASP.NET Core 2.1\Labs\Lab05\Complete\EComm\EComm.Model\obj\Debug\netstandard2.0\EComm.Model.AssemblyInfoInputs.cache
+C:\Users\bellj\Hub\Treeloop\Courseware\ASP.NET Core 2.1\Labs\Lab05\Complete\EComm\EComm.Model\obj\Debug\netstandard2.0\EComm.Model.AssemblyInfo.cs
+C:\Users\bellj\Hub\Treeloop\Courseware\ASP.NET Core 2.1\Labs\Lab05\Complete\EComm\EComm.Model\obj\Debug\netstandard2.0\EComm.Model.dll
+C:\Users\bellj\Hub\Treeloop\Courseware\ASP.NET Core 2.1\Labs\Lab05\Complete\EComm\EComm.Model\obj\Debug\netstandard2.0\EComm.Model.pdb
+C:\Users\ISInc\Documents\Vinh.Le\EComm.Model\bin\Debug\netstandard2.0\EComm.Model.deps.json
+C:\Users\ISInc\Documents\Vinh.Le\EComm.Model\bin\Debug\netstandard2.0\EComm.Model.dll
+C:\Users\ISInc\Documents\Vinh.Le\EComm.Model\bin\Debug\netstandard2.0\EComm.Model.pdb
+C:\Users\ISInc\Documents\Vinh.Le\EComm.Model\obj\Debug\netstandard2.0\EComm.Model.csprojAssemblyReference.cache
+C:\Users\ISInc\Documents\Vinh.Le\EComm.Model\obj\Debug\netstandard2.0\EComm.Model.csproj.CoreCompileInputs.cache
+C:\Users\ISInc\Documents\Vinh.Le\EComm.Model\obj\Debug\netstandard2.0\EComm.Model.AssemblyInfoInputs.cache
+C:\Users\ISInc\Documents\Vinh.Le\EComm.Model\obj\Debug\netstandard2.0\EComm.Model.AssemblyInfo.cs
+C:\Users\ISInc\Documents\Vinh.Le\EComm.Model\obj\Debug\netstandard2.0\EComm.Model.dll
+C:\Users\ISInc\Documents\Vinh.Le\EComm.Model\obj\Debug\netstandard2.0\EComm.Model.pdb

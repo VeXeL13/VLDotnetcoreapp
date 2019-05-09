@@ -1,0 +1,24 @@
+C:\Users\bellj\Hub\Treeloop\Courseware\ASP.NET Core 2.1\Labs\Lab05\Complete\EComm\EComm.DataAccess\bin\Debug\netstandard2.0\EComm.DataAccess.deps.json
+C:\Users\bellj\Hub\Treeloop\Courseware\ASP.NET Core 2.1\Labs\Lab05\Complete\EComm\EComm.DataAccess\bin\Debug\netstandard2.0\EComm.DataAccess.dll
+C:\Users\bellj\Hub\Treeloop\Courseware\ASP.NET Core 2.1\Labs\Lab05\Complete\EComm\EComm.DataAccess\obj\Debug\netstandard2.0\EComm.DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\bellj\Hub\Treeloop\Courseware\ASP.NET Core 2.1\Labs\Lab05\Complete\EComm\EComm.DataAccess\obj\Debug\netstandard2.0\EComm.DataAccess.AssemblyInfoInputs.cache
+C:\Users\bellj\Hub\Treeloop\Courseware\ASP.NET Core 2.1\Labs\Lab05\Complete\EComm\EComm.DataAccess\obj\Debug\netstandard2.0\EComm.DataAccess.AssemblyInfo.cs
+C:\Users\bellj\Hub\Treeloop\Courseware\ASP.NET Core 2.1\Labs\Lab05\Complete\EComm\EComm.DataAccess\bin\Debug\netstandard2.0\EComm.DataAccess.pdb
+C:\Users\bellj\Hub\Treeloop\Courseware\ASP.NET Core 2.1\Labs\Lab05\Complete\EComm\EComm.DataAccess\bin\Debug\netstandard2.0\EComm.Model.dll
+C:\Users\bellj\Hub\Treeloop\Courseware\ASP.NET Core 2.1\Labs\Lab05\Complete\EComm\EComm.DataAccess\bin\Debug\netstandard2.0\EComm.Model.pdb
+C:\Users\bellj\Hub\Treeloop\Courseware\ASP.NET Core 2.1\Labs\Lab05\Complete\EComm\EComm.DataAccess\obj\Debug\netstandard2.0\EComm.DataAccess.csprojAssemblyReference.cache
+C:\Users\bellj\Hub\Treeloop\Courseware\ASP.NET Core 2.1\Labs\Lab05\Complete\EComm\EComm.DataAccess\obj\Debug\netstandard2.0\EComm.DataAccess.csproj.CopyComplete
+C:\Users\bellj\Hub\Treeloop\Courseware\ASP.NET Core 2.1\Labs\Lab05\Complete\EComm\EComm.DataAccess\obj\Debug\netstandard2.0\EComm.DataAccess.dll
+C:\Users\bellj\Hub\Treeloop\Courseware\ASP.NET Core 2.1\Labs\Lab05\Complete\EComm\EComm.DataAccess\obj\Debug\netstandard2.0\EComm.DataAccess.pdb
+C:\Users\ISInc\Documents\Vinh.Le\EComm.DataAccess\bin\Debug\netstandard2.0\EComm.DataAccess.deps.json
+C:\Users\ISInc\Documents\Vinh.Le\EComm.DataAccess\bin\Debug\netstandard2.0\EComm.DataAccess.dll
+C:\Users\ISInc\Documents\Vinh.Le\EComm.DataAccess\bin\Debug\netstandard2.0\EComm.DataAccess.pdb
+C:\Users\ISInc\Documents\Vinh.Le\EComm.DataAccess\bin\Debug\netstandard2.0\EComm.Model.dll
+C:\Users\ISInc\Documents\Vinh.Le\EComm.DataAccess\bin\Debug\netstandard2.0\EComm.Model.pdb
+C:\Users\ISInc\Documents\Vinh.Le\EComm.DataAccess\obj\Debug\netstandard2.0\EComm.DataAccess.csprojAssemblyReference.cache
+C:\Users\ISInc\Documents\Vinh.Le\EComm.DataAccess\obj\Debug\netstandard2.0\EComm.DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\ISInc\Documents\Vinh.Le\EComm.DataAccess\obj\Debug\netstandard2.0\EComm.DataAccess.AssemblyInfoInputs.cache
+C:\Users\ISInc\Documents\Vinh.Le\EComm.DataAccess\obj\Debug\netstandard2.0\EComm.DataAccess.AssemblyInfo.cs
+C:\Users\ISInc\Documents\Vinh.Le\EComm.DataAccess\obj\Debug\netstandard2.0\EComm.DataAccess.csproj.CopyComplete
+C:\Users\ISInc\Documents\Vinh.Le\EComm.DataAccess\obj\Debug\netstandard2.0\EComm.DataAccess.dll
+C:\Users\ISInc\Documents\Vinh.Le\EComm.DataAccess\obj\Debug\netstandard2.0\EComm.DataAccess.pdb

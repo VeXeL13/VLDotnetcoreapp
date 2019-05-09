@@ -1,0 +1,80 @@
+﻿@model EComm.Model.Product
+
+<table class="table">
+    <thead>
+        <tr>
+            <th>
+                @Html.DisplayNameFor(model => model.Id)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.ProductName)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.UnitPrice)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Package)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.IsDiscontinued)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Supplier)
+            </th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+            <tr>
+                <td>
+                    @Html.DisplayFor(model => model.Id)
+                </td>
+                <td>
+                    @Html.DisplayFor(model => model.ProductName)
+                </td>
+                <td>
+                    @Html.DisplayFor(model => model.UnitPrice)
+                </td>
+                <td>
+                    @Html.DisplayFor(model => model.Package)
+                </td>
+                <td>
+                    @Html.DisplayFor(model => model.IsDiscontinued)
+                </td>
+                <td>
+                    @Html.DisplayFor(model => model.Supplier.CompanyName)
+                </td>
+                <td>
+                    <a asp-controller="Product" asp-action="Edit" asp-route-id="@Model.Id">Edit</a>
+                </td>
+            </tr>
+    </tbody>
+</table>
+
+<form id="addToCartForm" asp-controller="Product" asp-action="AddToCart" asp-route-id="@Model.Id">
+    <input name="quantity" size="3" />
+    <input type="submit" value="Add to Cart" />
+</form>
+
+<div id="message"></div>
+
+@section scripts {
+    <script type="text/javascript">
+        $(document).ready(function () {
+            $('form').submit(function (event) {
+                var formData = {
+                    'quantity': $('input[name=quantity]').val()
+                };
+                $.ajax({
+                    type: 'POST',
+                    url: $('#addToCartForm').attr('action'),
+                    data: formData
+                })
+                    .done(function (response) {
+                        $('#message').html(response);
+                    });
+                event.preventDefault();
+            });
+        });
+    </script>
+}
